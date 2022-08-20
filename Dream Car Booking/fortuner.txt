@@ -1,0 +1,9 @@
+Brand Toyota
+Car Toyota Fortuner
+Fuel Type : Diesel
+Engine: 2755 cc
+Horse Power : 200 HP @ 3000 RPM
+Fuel System : Fuel Injection
+Max Speed   : 180 KM/H
+Transmission Type : Automatic/Manual
+Body Type : Crossover/SUV

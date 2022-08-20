@@ -1,0 +1,8 @@
+Brand Honda
+Car Honda City
+Engine Type : Petro
+Displacement: 1200 cc
+Horse Power : 88 HP @ 6200 RPM
+Fuel System : Fuel Injection
+Max Speed   : 200 KM/H
+Transmission Type: Manual

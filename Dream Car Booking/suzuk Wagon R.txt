@@ -1,0 +1,9 @@
+Brand SUZUKI
+Car Suzuki Wagon R
+Engine Type : Petro
+Displacement: 998 cc
+Horse Power : 67 HP @ 6200 RPM
+Fuel System : Fuel Injection
+Max Speed   : 180 KM/H
+Transmission Type: Manual
+

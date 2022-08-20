@@ -1,0 +1,10 @@
+Brand	Suzuki
+car suzuki Alto
+No of Doors : 4 door
+Transmission Gearbox :	5 speed
+Engine Type : Petro
+Displacement: 600 cc
+Horse Power : 49 HP @ 5000 RPM
+Fuel System : Fuel Injection
+Max Speed   : 150 KM/H
+Transmission Type: Manual

@@ -1,0 +1,8 @@
+Brand Toyota
+Car Toyota Corolla
+Fuel Type : Petrol
+Engine : 1800 cc
+Horse Power : 125 HP @ 6000 RPM
+Top Speed   : 200 KM/H
+Transmission Type : Automatic/Manual
+Body Type : Sedan

@@ -1,0 +1,8 @@
+Brand Honda
+Car Honda Civic
+Engine Type : Petro
+Displacement: 1800 cc
+Horse Power : 105 HP @ 7000 RPM
+Fuel System : Fuel Injection
+Max Speed   : 220 KM/H
+Transmission Type: Manual

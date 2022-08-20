@@ -1,0 +1,7 @@
+Brand : AUDI
+Car   : Audi E-Tron
+Engine Type : Electric
+Electric Motor Power : 308hp
+Max speed   : 190Km
+Transmission : Automatic
+Body Type : Sedan
